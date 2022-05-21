@@ -29,11 +29,19 @@ gyökér könyvtár (front end)
 ng add @angular/material
 ```
 y
+  
 indigo
+  
 n
+  
 y
+  
 app.module.ts
+  
 beimportálni
+  
 importsok közé betenni
+  
 httpclient module import import { HttpClientModule} from ’@angular/common/http’
+  
 formsmodule import
