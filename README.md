@@ -6,7 +6,7 @@
 ## Frontend
 ### Létrehozás
 ```bash
-ng new front-end --skip -git --skip -install --skip -tests
+ng new front-end --skip-git --skip-install --skip-tests
 ```
 y
 
